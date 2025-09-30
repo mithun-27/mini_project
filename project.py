@@ -154,3 +154,8 @@ def main():
     print("\n================ THANK YOU FOR BOOKING WITH TRAVEL EXPRESS ================")
 
 main()
+
+
+
+"""create a virtual environment and install dependencies by pip install
+or use requirements.txt file given in the github main branch"""
